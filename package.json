@@ -1,0 +1,34 @@
+{
+  "name": "jade-render-dynamic",
+  "version": "0.1.0",
+  "description": "Enables support for dynamic render for Jade",
+  "main": "index.js",
+  "dependencies": {
+    "jade": "*",
+    "express": "*"
+  },
+  "keywords": [
+    "jade",
+    "templates",
+    "include",
+    "dynamic",
+    "web",
+    "utilities"
+  ],
+  "author": {
+    "name": "iki",
+    "email": "ik1ezz@gmail.com",
+    "url": "http://ssanoegovno.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iklz/jade-render-dynamic.git"
+  },
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "iki",
+      "email": "ik1ezz@gmail.com"
+    }
+  ]
+}
